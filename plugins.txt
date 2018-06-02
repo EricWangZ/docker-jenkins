@@ -2,6 +2,10 @@ jsch:latest
 display-url-api:latest
 pipeline-graph-analysis:latest
 pipeline-model-definition:latest
+pipeline-model-api:latest
+pipeline-model-declarative-agent:latest
+pipeline-model-extensions:latest
+pipeline-stage-tags-metadata:latest
 pipeline-milestone-step:latest
 apache-httpcomponents-client-4-api:latest
 git:latest
