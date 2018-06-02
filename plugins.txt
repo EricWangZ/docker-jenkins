@@ -1,3 +1,9 @@
+y-url-api:latest
+jsch:latest
+display-url-api:latest
+pipeline-graph-analysis:latest
+pipeline-model-definition:latest
+pipeline-milestone-step:latest
 apache-httpcomponents-client-4-api:latest
 git:latest
 git-client:latest
