@@ -1,4 +1,3 @@
-y-url-api:latest
 jsch:latest
 display-url-api:latest
 pipeline-graph-analysis:latest
