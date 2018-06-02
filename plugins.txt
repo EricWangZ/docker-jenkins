@@ -1,3 +1,4 @@
+apache-httpcomponents-client-4-api:latest
 git:latest
 git-client:latest
 git-server:latest
